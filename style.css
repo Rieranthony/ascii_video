@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: "monospace";
+  color: #fff;
+  font-size: 12pt;
+  line-height: 10pt;
+}
+
+canvas {
+  display: block;
+}
+
+.animation {
+  font-size: 10pt;
+  line-height: 8pt;
+  /* letter-spacing: 0.07em; */
+}
